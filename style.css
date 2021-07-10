@@ -1,0 +1,7 @@
+.mini_result{
+    background-color: gray;
+    border-radius: 20px;
+    height: 100%;
+    box-shadow: 5px 5px 5px cyan;
+    text-align: center;
+}
